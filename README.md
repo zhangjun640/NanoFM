@@ -1,4 +1,4 @@
-# NanoFM1 README
+# NanoFM
 
 ## Overview
 
